@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnuestra&label=Profile%20views&color=0e75b6&style=flat" alt="pxnuestra" /> </p>
 
-- 🔭 I’m currently working on [Aranus-PKL](https://github.com/paley777/aranus-pkl-smkn1)
+- 🔭 I’m currently Internship on [CV. Aranus Technology](https://aranustech.co.id)
 
 - 🌱 I’m currently learning **Laravel, Python, and Lua**
 

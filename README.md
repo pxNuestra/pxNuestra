@@ -26,10 +26,6 @@
 <img class="center" src="https://github-readme-stats.vercel.app/api?username=pxnuestra&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
 </p>
 
-<p>
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxnuestra&theme=vue-dark&hide_border=false" />
-</p>
-
 ### Language and Tools
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]

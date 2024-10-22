@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, Python, and Lua**
 
-- 📫 How to reach me **mhmdfasya4412@gmail.com**
+- 📫 How to reach me : **mhmdfasya4412@gmail.com**
 
 - ⚡ Fun fact **Im Pro Player Valorant, I am Peak Ascendant 3**
 

@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnuestra&label=Profile%20views&color=0e75b6&style=flat" alt="pxnuestra" /> </p>
 
-<a>
+<p>
 I am a website developer, bot creator, and graphic designer, specializing in dynamic web applications and innovative digital solutions. a bit Skilled in JavaScript, and Lua, with a passion for continuous learning.
-</a>
-
+</p>
 - 🔭 I’m currently Internship on [CV. Aranus Technology](https://aranustech.co.id)
-
-  
 <p>
   <img class="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=pxnuestra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"  />
 </p>

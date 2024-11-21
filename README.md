@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pxnuestra&label=Profile%20views&color=0e75b6&style=flat" alt="pxnuestra" /> </p>
 
+<a>
+I am a website developer, bot creator, and graphic designer, specializing in dynamic web applications and innovative digital solutions. a bit Skilled in JavaScript, and Lua, with a passion for continuous learning.
+</a>
+
 - 🔭 I’m currently Internship on [CV. Aranus Technology](https://aranustech.co.id)
 
-- 🌱 I’m currently learning **Laravel, Python, and Lua**
-
-- 📫 How to reach me : **mhmdfasya4412@gmail.com**
-
-- ⚡ Fun fact **Im Pro Player Valorant, I am Peak Ascendant 3**
-
+  
 <p>
   <img class="center" src"https://github-readme-stats.vercel.app/api/top-langs/?username=pxnuestra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact"  />
 </p>
